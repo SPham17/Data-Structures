@@ -2,10 +2,10 @@
 -------------------------------------------------------
 Array version of the Stack ADT.
 -------------------------------------------------------
-Author:  David Brown
-ID:      999999999
-Email:   dbrown@wlu.ca
-Section: CP164 A
+Author:  Steven Pham
+ID:      180198020
+Email:   pham8020@mylaurier.ca
+Section: CP164 B
 __updated__ = "2018-08-26"
 -------------------------------------------------------
 """

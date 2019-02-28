@@ -2,9 +2,9 @@
 -------------------------------------------------------
 Array version of the Sorted_List ADT.
 -------------------------------------------------------
-Author:  David Brown
-ID:      999999999
-Email:   dbrown@wlu.ca
+Author:  Steven Pham
+ID:      180198020
+Email:   pham8020@mylaurier.ca
 Section: CP164 B
 __updated__ = "2019-01-31"
 -------------------------------------------------------
